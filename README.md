@@ -14,3 +14,5 @@ This project focuses on the building part.
 - Open it in your code editor
 - Launch it with Live Server (that's what I use)
 - See the magic of web components
+
+Here's the link to the article:
